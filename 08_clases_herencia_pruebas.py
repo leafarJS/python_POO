@@ -40,4 +40,4 @@ print(isinstance(resultado, Raiz)) # el objeto no esta trabajando con esta funci
 
 print(issubclass(Calculadora, Raiz)) # falso
 print(issubclass(Raiz, Calculadora)) # true
-print(issubclass(Exponente, Calculadora)) # Error
+#print(issubclass(Exponente, Calculadora)) # Error
